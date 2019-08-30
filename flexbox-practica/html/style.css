@@ -1,0 +1,17 @@
+.card {
+  height: 100%;
+  position: relative;
+}
+
+
+.card-image img {
+  position: absolute;
+height: 70%;
+margin: 10px;
+left:70px;
+}
+
+ul .social-media {
+margin: 10px;
+left:70px;
+}
